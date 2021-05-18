@@ -1,10 +1,5 @@
 from List import basic_sino, basic_puluhribu, basic_ratusan, basic_asli, basic_aslipuluhan
 
-#INFORMATION!
-#Bila ingin tes, silahkan ke 
-#https://www.google.com/search?q=translate+bahasa+korea&oq=translate+bahasa+korea&aqs=chrome..69i57j0l9.6021j0j7&sourceid=chrome&ie=UTF-8
-#lalu langsung ketikan angkanya
-
 def sinokor(n):
     n = str(n)
     panjang_n = len(n)
